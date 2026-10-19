@@ -7,7 +7,7 @@ cask "typocat" do
   desc "Fixes words typed on the wrong keyboard layout"
   homepage "https://github.com/hx-natthawat/typocat"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "TypoCat.app"
 
