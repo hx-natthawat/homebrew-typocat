@@ -1,6 +1,6 @@
 cask "typocat" do
-  version "0.2.0"
-  sha256 "847a084988fba5e2df5fc61e0b93063672b286941f675a58fb90a7a72ca9a195"
+  version "0.3.0"
+  sha256 "a130702a5c2cfa923dae33036b7e5df9e0544250a8c1a9793a8436e30299a624"
 
   url "https://github.com/hx-natthawat/typocat/releases/download/v#{version}/TypoCat.dmg"
   name "TypoCat"
